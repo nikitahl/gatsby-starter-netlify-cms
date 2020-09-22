@@ -4,7 +4,7 @@ title: Hello World test post
 date: 2020-09-22T15:03:26.703Z
 description: This is the descruption of the HEllo World blog post. Will test if
   it's going to appear in meta tag of the post.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/winkey.png
 tags:
   - test
